@@ -1,2 +1,2 @@
-# pytorch_from_beginner_to_advanced
+# Pytorch from beginner to advanced
 pytorch learning tutorials, experiments and notes
