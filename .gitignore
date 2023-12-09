@@ -1,3 +1,5 @@
 .idea
 *tar.gz
 .ipynb_checkpoints
+data
+*.pt
